@@ -8,4 +8,4 @@ check portfolio.xlsx
 
 celebrate !!
 
-new changes coming soon 
+more improvements to follow 
