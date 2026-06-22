@@ -1,6 +1,3 @@
-# RMK: if this isn't working in VSCode, go to settings `Ctrl + ,` 
-# and change `Execute in File Dir` also make sure your portfolio.xlsx isn't open
-
 import downloader as dw
 
 def main():
