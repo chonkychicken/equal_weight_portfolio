@@ -1,11 +1,3 @@
-'''
-# something like this might be faster ???
-symbols = tickers["Ticker"].tolist()
-data = yf.download(symbols, period="1d", progress=False, auto_adjust=False)
-prices = data["Close"].iloc[-1]
-print(tickers)
-'''
-
 import pandas as pd
 import yfinance as yf
 import numpy as np
